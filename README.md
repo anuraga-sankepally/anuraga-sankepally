@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I am Anuraga Sankepally</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Anuraga Sankepally from India<br><br>- 🔭 I’m a Robotics student from University of Cincinnati, OH. <br>- ⚡ In my free time I read books, play geography trivia and watch anime</p>
+<p align="left">Welcome to my GitHub profile! I am a passionate engineer with a Master's in Mechanical Engineering (Robotics) from the University of Cincinnati and a Bachelor's in Mechanical Engineering from Osmania University, India. Currently a Graduate Assistant at the RISC Lab, my research focuses on innovative strategies for precise navigation of Unmanned Aerial Vehicles (UAVs), including optimal landmark activation based cooperative navigation. With industry experience as a Drone Engineer Intern at Cattle Quants and as a Design Engineer at Stellantis India, I bring a unique blend of skills in robotics, computer vision, and design engineering. Check out my projects involving Localization, SLAM, computer vision and motion planning.</p>
 
 ###
 
@@ -61,18 +61,3 @@
 </div>
 
 ###
-
-<!--
-**anuraga-sankepally/anuraga-sankepally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
