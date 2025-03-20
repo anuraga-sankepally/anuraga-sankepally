@@ -27,7 +27,7 @@
 ###
 
 <p align="left">
-👋 Hi, I’m Anuraga Sankepally, a Machine Learning Engineer and Robotics Enthusiast with expertise in autonomous systems, computer vision, and AI-driven solutions. I hold a Master’s in Robotics from the University of Cincinnati and a Bachelor’s in Mechanical Engineering from Osmania University.
+👋 Hi, I’m Anuraga Sankepally, a Robotics Enthusiast with expertise in autonomous systems, computer vision, and ML-driven solutions. I hold a Master’s in Robotics from the University of Cincinnati and a Bachelor’s in Mechanical Engineering from Osmania University.
 
 🔭 I specialize in:
 
