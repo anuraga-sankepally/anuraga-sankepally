@@ -68,9 +68,7 @@ Automated image analysis, reducing manual processing time by ~1 day.</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ladyraga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
