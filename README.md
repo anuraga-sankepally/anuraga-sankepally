@@ -26,7 +26,26 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a passionate engineer with a Master's in Mechanical Engineering (Robotics) from the University of Cincinnati and a Bachelor's in Mechanical Engineering from Osmania University, India. Currently a Graduate Assistant at the RISC Lab, my research focuses on innovative strategies for precise navigation of Unmanned Aerial Vehicles (UAVs), including optimal landmark activation based cooperative navigation. With industry experience as a Drone Engineer Intern at Cattle Quants and as a Design Engineer at Stellantis India, I bring a unique blend of skills in robotics, computer vision, and design engineering. Check out my projects involving Localization, SLAM, computer vision and motion planning.</p>
+<p align="left">About Me
+👋 Hi, I’m Anuraga Sankepally, a Machine Learning Engineer and Robotics Enthusiast with expertise in autonomous systems, computer vision, and AI-driven solutions. I hold a Master’s in Robotics from the University of Cincinnati and a Bachelor’s in Mechanical Engineering from Osmania University.
+
+🔭 I specialize in:
+
+Developing machine learning models for object detection, anomaly detection, and sensor failure prediction.
+
+Building autonomous navigation systems using ROS, LiDAR, and computer vision.
+
+Optimizing algorithms for drones and robots, leveraging GPS, IMU, and camera data.
+
+💡 Skills: Python, C++, PyTorch, TensorFlow, ROS, AWS, Docker, OpenCV.
+
+🚀 Highlights:
+
+Improved 3D object detection accuracy by 14% for autonomous driving.
+
+Built a U-NET-based system for cattle anomaly detection with 96.2% precision.
+
+Automated image analysis, reducing manual processing time by ~1 day.</p>
 
 ###
 
