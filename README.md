@@ -24,26 +24,8 @@
 ###
 
 <p align="left">
-👋 Hi, I’m Anuraga Sankepally, a Robotics Enthusiast with expertise in autonomous systems, computer vision, and ML-driven solutions. I hold a Master’s in Robotics from the University of Cincinnati and a Bachelor’s in Mechanical Engineering from Osmania University.
 
-🔭 I specialize in:
-
-Developing machine learning models for object detection, anomaly detection, and sensor failure prediction.
-
-Building autonomous navigation systems using ROS, LiDAR, and computer vision.
-
-Optimizing algorithms for drones and robots, leveraging GPS, IMU, and camera data.
-
-💡 Skills: Python, C++, PyTorch, TensorFlow, ROS, AWS, Docker, OpenCV.
-
-🚀 Highlights:
-
-Improved 3D object detection accuracy by 14% for autonomous driving.
-
-Built a U-NET-based system for cattle anomaly detection with 96.2% precision.
-
-Automated image analysis, reducing manual processing time by ~1 day.</p>
-
+👋 Hi, I’m Anuraga Sankepally,  a Robotics Enthusiast with a passion for building intelligent systems that solve real-world problems. With a Master’s in Robotics from the University of Cincinnati and a Bachelor’s in Mechanical Engineering, I thrive at the intersection of AI, computer vision, and autonomous systems. I’ve worked on diverse projects, from improving 3D object detection for autonomous vehicles to developing anomaly detection systems for livestock using deep learning. My expertise lies in Python, C++, ROS, and frameworks like PyTorch and TensorFlow. Beyond tech, I enjoy tinkering with drones and exploring how AI can make robotics more accessible. I’m driven by curiosity and a love for innovation, always eager to tackle new challenges and collaborate on impactful projects. Let’s connect and build something amazing together!
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
